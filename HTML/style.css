@@ -1,0 +1,26 @@
+.projects {
+    font-family: sans-serif;
+  }
+  
+  .projects h1 {
+    font-size: 2em;
+    margin-bottom: 1em;
+  }
+  
+  .projects ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .projects li {
+    margin-bottom: 1em;
+  }
+  
+  .projects strong {
+    font-weight: bold;
+  }
+  
+  .projects .date {
+    float: right;
+  }
